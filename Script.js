@@ -1,1 +1,1 @@
-glbjlbbklbllbl
+alert("hello world")
